@@ -13,14 +13,15 @@
         2. [Activities](#activities)
     5. [Ex05. Data Structure 1: Arrays](#ex05-data-structure-1-arrays)
     6. [Ex06. Control Flow 2: `for`](#ex06-control-flow-2-for)
-    7. [Ex07. Data Structures 2: `dict`](#ex07-data-structures-2-dict)
-    8. [Ex08. Control Flow 3: While loops](#ex08-control-flow-3-while-loops)
-    9. [Ex09. Control Flow 4: Break, Continue and pass](#ex09-control-flow-4-break-continue-and-pass)
-    10. [Ex10. Functions 1: Basics](#ex10-functions-1-basics)
-    11. [Ex11. Functions 2: args, kwargs](#ex11-functions-2-args-kwargs)
-    12. [Ex12. Applications: File I/O](#ex12-applications-file-io)
-    13. [Ex13. Exceptions](#ex13-exceptions)
-    14. [Ex14. Modules](#ex14-modules)
+    7. [Ex07. Checkpoint](#ex07-checkpoint)
+    8. [Ex08. Data Structures 2: `dict`](#ex08-data-structures-2-dict)
+    9. [Ex09. Control Flow 3: While loops](#ex09-control-flow-3-while-loops)
+    10. [Ex10. Control Flow 4: Break, Continue and pass](#ex10-control-flow-4-break-continue-and-pass)
+    11. [Ex11. Functions 1: Basics](#ex11-functions-1-basics)
+    12. [Ex12. Functions 2: args, kwargs](#ex12-functions-2-args-kwargs)
+    13. [Ex13. Applications: File I/O](#ex13-applications-file-io)
+    14. [Ex14. Exceptions](#ex14-exceptions)
+    15. [Ex15. Modules](#ex15-modules)
 
 <!-- /TOC -->
 
@@ -160,7 +161,9 @@ for mv in marvel_movies:
 - Comment on 'iterator' concept
     - Strings have `__iter__`
 
-## Ex07. Data Structures 2: `dict`
+## Ex07. Checkpoint
+
+## Ex08. Data Structures 2: `dict`
 
 1. Motivation:
     - segway: bad data structure design won't let us easily find information about if a movie is from marvel or not
@@ -210,21 +213,21 @@ for mv in marvel_movies:
 8. Challenge: Count how many Marvel movies there are
 9. Challenge: Count how many movies each studio has
 
-## Ex08. Control Flow 3: While loops
-## Ex09. Control Flow 4: Break, Continue and pass
-## Ex10. Functions 1: Basics
+## Ex09. Control Flow 3: While loops
+## Ex10. Control Flow 4: Break, Continue and pass
+## Ex11. Functions 1: Basics
 
 1. Basic repeated code
 2. Arguments
 3. Returning
 4. Function annotations
 
-## Ex11. Functions 2: args, kwargs
-## Ex12. Applications: File I/O
-## Ex13. Exceptions
+## Ex12. Functions 2: args, kwargs
+## Ex13. Applications: File I/O
+## Ex14. Exceptions
 
 1. What are they
 2. Standard Exceptions
 3. Try/Catch
 
-## Ex14. Modules
+## Ex15. Modules
