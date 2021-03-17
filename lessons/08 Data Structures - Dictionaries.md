@@ -1,5 +1,14 @@
 # Lesson 08: Dictionaries
 
+(Under Construction)
+
+<!-- TOC depthFrom:2 -->
+
+1. [Part A: Intro to Dicts](#part-a-intro-to-dicts)
+2. [Part B: Adding Keys to a Dictionary](#part-b-adding-keys-to-a-dictionary)
+
+<!-- /TOC -->
+
 ## Part A: Intro to Dicts
 
 A Dictionary is another type of data structure. It is useful for when we need to map one piece of information with some value.
